@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace AzureDemoWebApp
 {
+    //Addded some random comments
     public class Startup
     {
         public Startup(IConfiguration configuration)
